@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Conni🍀</h1>
-<h3 align="center">A passionate Front-end developer from Chile✨</h3>
+<h3 align="center">A passionate Front-end developer✨</h3>
 
 - 📫 How to reach me **constanza.macnamara@gmail.com**
 
